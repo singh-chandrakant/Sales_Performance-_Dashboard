@@ -5,7 +5,7 @@ Sales Data Analysis Dashboard — An interactive Power BI project analyzing sale
 An **interactive Power BI dashboard** analyzing 18 months of sales data to track revenue, profit, and product performance.  
 Includes KPIs, trends, regional and category breakdowns, and slicers for dynamic exploration.
 
-🔗 **[View Live Dashboard](https://singh-chandrakant.github.io/sales-performance-dashboard/)** 
+🔗 **[View Live Dashboard](https://github.com/singh-chandrakant/Sales_Performance_Dashboard)** 
 
 ---
 
@@ -33,7 +33,7 @@ Includes KPIs, trends, regional and category breakdowns, and slicers for dynamic
 ---
 
 ## 📥 How to View the Dashboard
-1. Open the **[Live Dashboard Link](https://singh-chandrakant.github.io/sales-performance-dashboard/)**  
+1. Open the **[Live Dashboard Link](https://github.com/singh-chandrakant/Sales_Performance_Dashboard)**  
    *(If it doesn’t load, download `index.html` and open in your browser)*  
 2. Use slicers for **Region** and **Category** to explore data interactively.
 
